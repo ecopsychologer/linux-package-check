@@ -20,4 +20,5 @@ sudo apt-get autoremove -y
 echo "Cleaning up..."
 sudo apt-get autoclean
 
+echo "..."
 echo "System update and maintenance complete."
